@@ -1,0 +1,16 @@
+body{
+    font-family:'Poppins',sans-serif;
+}
+.weather-app{
+    background:linear-gradient(135deg,#c0bca9,#87b021);
+    color:rgb(0, 255, 238);
+
+}
+.weather-card{
+    font-size:1.2rem;
+    margin-top:15px;
+
+}
+.weather-card p{
+    margin:5px 0;
+}
